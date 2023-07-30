@@ -5,7 +5,6 @@
 <br/>
 Business Administration at Wilfrid Laurier University</h6>
 
-  ---
-  
-</div>
+---
 
+</div>
