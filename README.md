@@ -13,7 +13,7 @@
 
 <img align="right" src="https://github.com/chanhailey/chanhailey/blob/f8809fb5027aca0e86cfaa4ed6b956b0e9ddcba8/assets/computer%20kuromi.png" width = 350px>
 <div align="left">
-<br>
+<br><br>
   
   I like to spritz everything I create in black, white, red, and pink. I aspire to work in *Human-Computer Interaction* and *Product Design*, fortifying user-centered designs for a society in higher spirits. Also, I code sometimes.
 
