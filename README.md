@@ -11,12 +11,15 @@
 
 ---
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-<div align="center">
+<picture> <img align="right" src="https://github.com/chanhailey/chanhailey/blob/f1a8b6c35e83d49e83389d2b2cfceb6575e66fa8/assets/computer%20kuromi.png" width = 350px></picture>
+<div align="left">
+<br>
   
   I like to spritz everything I create in black, white, red, and pink. I aspire to work in *Human-Computer Interaction* and *Product Design*, fortifying user-centered designs for a society in higher spirits. Also, I code sometimes.
-  
+
+  <div align="center">
 <h4>languages & tools:</h4>
 <img src="https://github.com/chanhailey/chanhailey/blob/42e21594c0940f73c121af07912f0af2a2460dcd/assets/stack.png" width=320></img>
+</div>
 </div>
 </div>
