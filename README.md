@@ -11,7 +11,7 @@
 
 ---
 
-<picture> <img align="right" src="https://github.com/chanhailey/chanhailey/blob/f8809fb5027aca0e86cfaa4ed6b956b0e9ddcba8/assets/computer%20kuromi.png" width = 350px></picture>
+<img align="right" src="https://github.com/chanhailey/chanhailey/blob/f8809fb5027aca0e86cfaa4ed6b956b0e9ddcba8/assets/computer%20kuromi.png" width = 350px>
 <div align="left">
 <br>
   
