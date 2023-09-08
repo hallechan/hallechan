@@ -4,8 +4,7 @@
 
   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=1500&pause=5000&color=AF546A&center=true&vCenter=true&width=135&height=20&lines=hi%2C+I'm+Hailey!" alt="Typing SVG" /></a> <img src="https://github.com/chanhailey/chanhailey/blob/cab8833e98e78f95d2fbcd07228571b2938b38fc/assets/heart.png" width=26></img></h2>
 
-  <h6>Computer Science at the University of Waterloo, s. Human-Computer Interaction <br/>
-    Business Administration at Wilfrid Laurier University</h6>
+  <h6>Computer Science at the University of Waterloo, s. Human-Computer Interaction</h6>
 
 </div>
 
