@@ -14,7 +14,7 @@
 <div align="left">
 <br><br>
   
-  I like to spritz everything I create in black, white, red, and pink. I aspire to work in *Human-Computer Interaction* and *Product Design*, fortifying user-centered designs for a society in higher spirits. Also, I code sometimes.
+  I like to spritz everything I create in black, white, red, and pink. I aspire to work in *Human-Computer Interaction* and *Design Engineering*, fortifying user-centered designs for a society in higher spirits. Also, I code.
 
   <div align="center">
 <h4>languages & tools:</h4>
